@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TQHINYYKit_Example' do
+  pod 'TQHINYYKit', :path => '../'
+
+  target 'TQHINYYKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
