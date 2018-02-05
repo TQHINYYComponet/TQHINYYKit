@@ -1,0 +1,6 @@
+framework module TQHINYYKit {
+  umbrella header "TQHINYYKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

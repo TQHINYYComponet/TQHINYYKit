@@ -1,0 +1,22 @@
+{
+  "name": "TQHINYYKit",
+  "version": "0.1.0",
+  "summary": "A short description of TQHINYYKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/tanquwell/TQHINYYKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tanquwell": "1178241203@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/tanquwell/TQHINYYKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TQHINYYKit/Classes/**/*"
+}
